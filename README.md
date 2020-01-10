@@ -1,4 +1,5 @@
 
+[![Build Status](https://dev.azure.com/MicroLearnAz400/mslearn-tailspin-spacegame-web/_apis/build/status/dyan017.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/MicroLearnAz400/mslearn-tailspin-spacegame-web/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
